@@ -1,0 +1,28 @@
+{
+	"name": "Health Care",
+	"short_name": "HCare",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"orientation": "portrait-primary",
+	"background_color": "#E86825",
+	"theme_color": "#E86825",
+	"scope": "/",
+	"description": "A simple PWA for storing health records.",
+	"icons": [
+		{
+			"src": "/img/favicon.png",
+			"sizes": "72x72",
+			"type": "image/png"
+		},{
+			"src": "/img/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/mask-icon.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	]
+}
