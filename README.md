@@ -9,6 +9,12 @@ A simple Progressive Web Application (PWA) for keeping basic health data on your
 - Unlimited records for blood pressure and heart rate in a day
 - Export data
 
+## Technologies
+- HTML
+- CSS
+- Javascript
+- IndexedDB
+
 ## TODO
 - Add: 
   * [ ] statistics 
